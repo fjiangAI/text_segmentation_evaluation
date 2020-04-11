@@ -1,0 +1,19 @@
+{
+    "items": {
+        "test1": {
+            "golden": [
+                2,
+                3,
+                6
+            ]
+        },
+        "test2": {
+            "golden": [
+                2,
+                3,
+                6
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

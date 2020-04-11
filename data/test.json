@@ -1,0 +1,17 @@
+{
+    "items": {
+        "test1": {
+            "test": [
+                5,
+                6
+            ]
+        },
+        "test2": {
+            "test": [
+                5,
+                6
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}
