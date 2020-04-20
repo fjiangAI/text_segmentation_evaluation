@@ -10,7 +10,7 @@ def write_dataset_example():
     :return: None
     """
     gold = [2, 3, 6]
-    h = [[5, 6]]
+    h = [5, 6]
     gold_dataset = Dataset(
         {'test1':
              {'golden': gold,
